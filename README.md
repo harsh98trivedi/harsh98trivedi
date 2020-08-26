@@ -1,7 +1,9 @@
 <h1>Hi there, I am <a href="https://harsh98trivedi.github.io" target="_blank">Harsh Trivedi</a> <img src="https://i.imgur.com/u2WLlB8.gif" width="30px"/></h1>
 
-I'm passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination. Creating random beats, playing guitar, rapping and editing videos, tweaking and tinkering also fall inside my interest zone.
- 
+I'm passionate Tech Lover from India, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination. Creating random beats, playing guitar, rapping and editing videos, tweaking and tinkering also fall inside my interest zone.
+
+---
+
  ## Skills :computer:
  > THERE ARE SEVERAL TECHNOLOGIES THAT I USE OR HAVE WORKED ON IN THE PAST
  
@@ -31,5 +33,5 @@ I'm passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer an
 
 ---
 
-### Connect with me
+### Connect with Me
 [<img align="left" alt="Harsh Trivedi" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://harsh98trivedi.github.io) [<img align="left" alt="Facebook - Harsh Trivedi" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/facebook.svg" />](https://www.facebook.com/harsh98trivedi) [<img align="left" alt="Twitter - Harsh Trivedi" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/twitter.svg" />](https://twitter.com/harsh98trivedi) [<img align="left" alt="Instagram - Harsh Trivedi" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" />](https://www.instagram.com/harsh98trivedi) [<img align="left" alt="LinkedIn - Harsh Trivedi" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/harsh98trivedi) [<img align="left" alt="YouTube - Harsh Trivedi" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/youtube.svg" />](https://www.youtube.com/c/harsh98trivedi) [<img align="left" alt="Behance - Harsh Trivedi" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/behance.svg" />](https://behance.net/harsh98trivedi) [<img align="left" alt="Email - Harsh Trivedi" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:harsh98trivedi@gmail.com)
