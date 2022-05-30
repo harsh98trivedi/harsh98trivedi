@@ -1,21 +1,41 @@
-<h1>Hi there, I am <a href="https://harsh98trivedi.github.io" target="_blank">Harsh Trivedi</a> <img src="https://i.imgur.com/u2WLlB8.gif" width="30px"/></h1>
+# Hi there, I am [Harsh Trivedi](https://harsh98trivedi.github.io/) <img src="https://i.imgur.com/u2WLlB8.gif" width="30px"/>
 
-I'm passionate Tech Lover from India, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination. Creating random beats, playing guitar, rapping and editing videos, tweaking and tinkering also fall inside my interest zone.
+<img width="100%" src="https://i.imgur.com/G3TeQNJ.png" alt="my banner">
+
+I'm a passionate Tech Lover from India, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination. Creating random beats, playing guitar, rapping and editing videos, and tweaking and tinkering also fall inside my interest zone.
 
 ---
 
- ## Skills :computer:
- > THERE ARE SEVERAL TECHNOLOGIES THAT I USE OR HAVE WORKED ON IN THE PAST
- 
- **Web Development**
- 
- <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/HTML5.svg"/>|<img alt="CSS" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/CSS3.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/JS.svg"/>|<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Bootstrap.svg"/>|<img alt="WordPress" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/WP.svg"/>|<img alt="TailwindCSS" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Tailwind.svg"/>|<img alt="Bulma" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Bulma.svg"/>
- |--|--|--|--|--|--|--|
- 
+## 💫 Liitle Bit More About Me
+<p>🌱 I'm currently learning ReactJS, MongoDB, ExpressJS, NodeJS</p>
+<p>💬 Ask me about Front-End Development, Jekyll, Graphic Designing</p>
+<p>📫 How to reach me? <a href="harshtrivedi@duck.com">harshtrivedi@duck.com</a></p>
+<p>I regularly write articles on <a href="https://www.techetarian.com">Techetarian</a></p>
+<p>All of my projects are available at <a href="https://harsh98trivedi.github.io/project"></a>https://harsh98trivedi.github.io/project</p>
+<p>⚡ Fun Fact: I love memes</p>
+
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/bulma-cyan?style=for-the-badge&logo=bulma&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
+</p>
+
+
  **Tools**
  
- <img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Ubuntu.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/VSCode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Atom.svg"/>
- |--|--|--|--|
+<img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Ubuntu.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/VSCode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Atom.svg"/>|<img alt="WordPress" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/WP.svg"/>
+ |--|--|--|--|--|
  
  **Designing and Photo Editing**
  
@@ -27,11 +47,36 @@ I'm passionate Tech Lover from India, apart from that I'm a Graphic Designer and
 <img alt="Adobe Premiere Pro" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/PremierePro.svg"/>|<img alt="Adobe After Effects" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/AfterEffects.svg"/>|<img alt="Adobe Audition" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Audition.svg"/>
 |--|--|--|
 
-## **Some of my GitHub Stats**
+## 👥 Connect With Me
+<p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh98trivedi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/https://twitter.com/harsh98trivedi"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/https://discordapp.com/users/%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%B7#3527"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.facebook.com/https://www.facebook.com/harsh98trivedi/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/https://www.instagram.com/harsh98trivedi/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/c/harsh98trivedi/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.reddit.com/user/http://reddit.com/u/harshtrivedi"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.behance.net/https://www.behance.net/harsh98trivedi"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=harsh98trivedi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues">
+## 🌟 Github Badges
+<p>
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px">
+</p>
 
----
 
-### Connect with Me
-[<img align="left" alt="Facebook - Harsh Trivedi" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/FB.svg" />](https://www.facebook.com/harsh98trivedi) [<img align="left" alt="Twitter - Harsh Trivedi" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Twitter.svg" />](https://twitter.com/harsh98trivedi) [<img align="left" alt="Instagram - Harsh Trivedi" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Instagram.svg" />](https://www.instagram.com/harsh98trivedi) [<img align="left" alt="LinkedIn - Harsh Trivedi" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/LinkedIn.svg" />](https://www.linkedin.com/in/harsh98trivedi) [<img align="left" alt="YouTube - Harsh Trivedi" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/YT.svg" />](https://www.youtube.com/c/harsh98trivedi) [<img align="left" alt="Behance - Harsh Trivedi" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Behance.svg" />](https://behance.net/harsh98trivedi) [<img align="left" alt="Messenger - Harsh Trivedi" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Messenger.svg" />](https://m.me/harsh98trivedi)
+## 📊 Github Status
+
+<p><img src="https://metrics.lecoq.io/harsh98trivedi"><p>
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=harsh98trivedi"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=harsh98trivedi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh98trivedi"><p>
+
+## 🏆 GitHub Trophies
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=harsh98trivedi">
+</p>
