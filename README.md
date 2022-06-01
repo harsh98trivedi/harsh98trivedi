@@ -1,4 +1,4 @@
-# Hi there, I am [Harsh Trivedi](https://harsh98trivedi.github.io/) :wave: :fire:
+# Hi there, I am [Harsh Trivedi](https://harsh98trivedi.github.io/) :wave:
 <!-- <img width="20%" src="https://i.imgur.com/u2WLlB8.gif" /> -->
 
 I'm a passionate Tech Lover from India, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination. Creating random beats, playing guitar, rapping and editing videos, and tweaking and tinkering also fall inside my interest zone.
