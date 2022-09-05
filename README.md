@@ -57,13 +57,6 @@
 <img alt="Adobe Premiere Pro" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/PremierePro.svg"/>|<img alt="Adobe After Effects" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/AfterEffects.svg"/>|<img alt="Adobe Audition" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Audition.svg"/>
 |--|--|--|
 
-## 🌟 Github Badges
-<p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px">
-</p>
-
-
 ## 📊 Github Status
 
 <p><img src="https://metrics.lecoq.io/harsh98trivedi"><p>
