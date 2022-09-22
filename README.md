@@ -59,8 +59,6 @@
 
 ## 📊 Github Status
 
-<p><img src="https://metrics.lecoq.io/harsh98trivedi"><p>
-
 <p><img src="https://activity-graph.herokuapp.com/graph?username=harsh98trivedi"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=harsh98trivedi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
