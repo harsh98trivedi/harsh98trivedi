@@ -1,7 +1,7 @@
 # <h1 align="center"/> Hi there, I am [Harsh Trivedi](https://harsh98trivedi.github.io/) 👋
 <!-- <img width="20%" src="https://i.imgur.com/u2WLlB8.gif" /> -->
 
-<p align="center"/> Howdy, I'm Harsh Trivedi. I'm passionate Tech Lover Inspired by Imagination. Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects.  I enjoy tweaking and tinkering with the gadgets I own, and apart from all this, I enjoy spending my time watching content from some of my favorite creators.  Playing with new software and apps acts like dopamine for me.
+<p align="center"/> Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover Inspired by Imagination. Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects. I enjoy tweaking and tinkering with the gadgets I own, and apart from all this, I enjoy spending my time watching content from some of my favourite creators. Playing with new software and apps acts like dopamine for me.
 
 ## 👥 Connect With Me
 <p align="center">
