@@ -58,9 +58,6 @@ Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover Inspired by Imagination. A
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=harsh98trivedi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
