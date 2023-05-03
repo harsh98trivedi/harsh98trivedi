@@ -79,5 +79,5 @@ Overall, working as a customer support specialist for LearnDash was a rewarding 
 |--|--|--|
 
 ## 📊 Github Status
-<img height="25px" src="https://profile-counter.glitch.me/harsh98trivedi/count.svg?"/><br>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=harsh98trivedi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"> <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh98trivedi">
+<img height="25px" src="https://profile-counter.glitch.me/harsh98trivedi/count.svg" alt="Harsh Trivedi"/><br>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=harsh98trivedi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"> <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=harsh98trivedi&theme=chartreuse-dark&border_radius=5)](https://git.io/streak-stats"/>
