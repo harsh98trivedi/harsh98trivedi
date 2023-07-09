@@ -46,9 +46,17 @@ Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover Inspired by Imagination. A
 > I worked as a Technical Support Specialist at NinjaForms, a child company of Saturday Drive, where I helped customers solve their WordPress issues. I used ZohoDesk to provide assistance via email and reported issues on GitHub. My duties involved manually troubleshooting and providing assistance to ensure customer satisfaction. My experience and knowledge in the WordPress platform has enabled me to provide high-quality customer service.
 - **LiquidWeb, Remote** — Support Specialist at LearnDash <br> ```September 2020 - March 2022```
 > Working as a Customer Support Specialist for LearnDash for over 1.5 years was a great experience. My main duties included helping customers solve WordPress issues through email using Help Scout and collecting issues over Jira. I also gathered feature requests from customers to help improve the product.<br>
-I was always very organized and had a clear understanding of customer service. I was able to give quick and effective responses to customer inquiries and kept an accurate record of all communications. I was also able to provide detailed support for all product features and troubleshoot any issues that may have arisen.<br>
-Additionally, I was able to stay up-to-date with new product features and changes, as well as all related documents and tutorials. This enabled me to provide all the necessary information to customers when they had questions. I was also able to communicate any changes to the product, helping to ensure that all customers were kept in the loop and knew what to expect.<br>
-Overall, working as a customer support specialist for LearnDash was a rewarding and enjoyable experience, as I was able to provide excellent customer service and help improve the product.
+- Assisted in creating and updating documentation for common support issues and resolutions.
+- Gathered feature requests from customers to help improve the product.
+- Maintained a consistently positive customer rating above 95%
+- Maintained a 99% of Customer Happiness Score while providing the best customer service.
+- Provided quick and effective responses to customer inquiries and kept an accurate record of all communications.
+- Provided guidance on WordPress best practices, security measures, and plugin selections.
+- Collaborated with the development team and QA team to escalate and resolve complex LearnDash issues.
+- Provided detailed support for all product features and troubleshoot any issues that may have arisen.
+- Troubleshoot Site conflicts and monitored bug fixes via Jira.
+- Collaborated with the development team to test new features and provide feedback.
+
 - **InfPlus Solutions Private Limited, Remote** — Support Specialist, <br> ```December 2018 - August 2020```
 > While working for InfPlus Solutions Private Limited as a graphic designer I had the opportunity to use a wide array of tools like Photoshop, Illustrator, Figma, Premiere Pro, and After Effects to create logos, social media posts, user interfaces, web designs, motion graphics, and edit videos. I was able to create stunning design solutions that aligned with the client's goals and met their expectations.
 - **Freelance, Remote** — Web Development/Graphic Designing <br> ```2015 - PRESENT```
