@@ -42,6 +42,8 @@ Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover Inspired by Imagination. A
 </p>
 
 ## Experience
+- **Acquia, Remote** — Support Specialist at **Acquia DAM** <br> ```Jul 2023 - Present```
+> I provide exceptional support for Acquia DAM (formerly Widen DAM). Customers can rely on me to solve their digital asset management challenges with my thorough understanding of the platform and its features. I seamlessly assist them via email, chat using Salesforce, and Jira ticketing, ensuring a smooth experience regardless of whether they're using Acquia DAM or transitioning from Widen DAM. My extensive knowledge of Adobe Creative Cloud, EXIF Tool, and other Acquia DAM functionalities empower me to deliver high-quality customer service that consistently exceeds expectations.
 - **Saturday Drive, Remote** — Support Specialist at **Ninja Forms** <br> ```March 2022 - November 2022```
 > I worked as a Technical Support Specialist at NinjaForms, a child company of Saturday Drive, where I helped customers solve their WordPress issues. I used ZohoDesk to provide assistance via email and reported issues on GitHub. My duties involved manually troubleshooting and providing assistance to ensure customer satisfaction. My experience and knowledge in the WordPress platform has enabled me to provide high-quality customer service.
 - **LiquidWeb, Remote** — Support Specialist at LearnDash <br> ```September 2020 - March 2022```
