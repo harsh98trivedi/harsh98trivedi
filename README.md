@@ -66,7 +66,7 @@ Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover Inspired by Imagination. A
 > * Designed Logos/Posters/etc using Adobe Photoshop, Adobe Illustrator
 
  ### Volunteering
- - Lead Organizer at [Google Developer Group Kanpur](https://gdg.community.dev/gdg-kanpur/).
+ - Organizer at [Google Developer Group Kanpur](https://gdg.community.dev/gdg-kanpur/).
  - Core Web Development Lead at [Defcon Delhi (DC9111)](https://defcon9111.org/).
  - Volunteer at [WordCamp Asia 2023 - Social Media Handler](https://asia.wordcamp.org/2023/).
  - Volunteer Graphic Designer at [UnitedCon 2020](https://www.facebook.com/unitedconindia/).
