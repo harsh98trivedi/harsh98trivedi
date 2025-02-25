@@ -16,7 +16,7 @@ Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover Inspired by Imagination. A
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning ReactJS, MongoDB, ExpressJS, NodeJS</p>
 <p>💬 Ask me about Front-End Development, Jekyll, Graphic Designing</p>
-<p>📫 How to reach me? <a href="harshtrivedi@duck.com">hi@harshtrivedi.in</a></p>
+<p>📫 How to reach me? <a href="harsh98trivedi@live.com">harsh98trivedi@live.com</a></p>
 <p>I used to regularly write articles on <a href="https://www.techetarian.com">Techetarian</a></p>
 <p>All of my projects are available at <a href="https://harsh98trivedi.github.io/project"></a>https://harsh98trivedi.github.io/project</p>
 <p>⚡ Fun Fact: I love memes</p>
