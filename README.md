@@ -42,7 +42,19 @@ Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover Inspired by Imagination. A
 </p>
 
 ## Experience
-- **Acquia, Remote** — Support Specialist at **Acquia DAM** <br> ```Jul 2023 - Present```
+- **Everbridge, Remote** — Senior Technical Support Engineer | Safeguarding Communities Through Technology <br> ```May 2025 - Present```
+> At Everbridge, a global leader in Critical Event Management (CEM) and public safety solutions, I contribute to the mission of protecting over 800 million people across more than 20 countries . As a Senior Support Engineer I, I play a pivotal role in ensuring the reliability and efficiency of our Public Warning platform, which empowers governments and organizations to rapidly disseminate critical information during emergencies.
+> **Key Responsibilities:**
+> - **Technical Issue Resolution:** Diagnose and resolve complex technical issues related to our SaaS-based applications, ensuring minimal downtime and optimal performance for clients.
+> - **Collaboration:** Work closely with cross-functional teams, including development and operations, to streamline deployment processes and implement effective solutions.
+> - **Performance Monitoring:** Continuously monitor application performance metrics to proactively identify and address potential issues.
+> - **Documentation:** Maintain and update technical documents and procedures to support knowledge sharing and operational efficiency.
+> - **Client Support:** Manage and respond to client inquiries through platforms like Zendesk, ensuring timely and effective communication.
+> - **Incident Management:** Lead the response to critical incidents (P1 issues), coordinating with relevant teams to resolve problems swiftly and prevent recurrence.
+> - **Continuous Improvement:** Analyze software functionality and suggest enhancements to improve user experience and system robustness.
+>
+> By leveraging Everbridge's innovative technologies, including Device-Based Geo-Fencing and multi-channel alerting systems , I am committed to enhancing public safety and helping organizations navigate critical events with resilience and confidence.
+- **Acquia, Remote** — Support Specialist at **Acquia DAM** <br> ```Jul 2023 - May 2025```
 > I provide exceptional support for Acquia DAM (formerly Widen DAM). Customers can rely on me to solve their digital asset management challenges with my thorough understanding of the platform and its features. I seamlessly assist them via email, chat using Salesforce, and Jira ticketing, ensuring a smooth experience regardless of whether they're using Acquia DAM or transitioning from Widen DAM. My extensive knowledge of Adobe Creative Cloud, EXIF Tool, and other Acquia DAM functionalities empower me to deliver high-quality customer service that consistently exceeds expectations.
 - **Saturday Drive, Remote** — Support Specialist at **Ninja Forms** <br> ```March 2022 - November 2022```
 > I worked as a Technical Support Specialist at NinjaForms, a child company of Saturday Drive, where I helped customers solve their WordPress issues. I used ZohoDesk to provide assistance via email and reported issues on GitHub. My duties involved manually troubleshooting and providing assistance to ensure customer satisfaction. My experience and knowledge in the WordPress platform has enabled me to provide high-quality customer service.
