@@ -102,4 +102,3 @@ Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover Inspired by Imagination. A
 
 ## 📊 Github Status
 <img height="25px" src="https://profile-counter.glitch.me/harsh98trivedi/count.svg" alt="Harsh Trivedi"/><br>
-[![Peerlist](https://github-readme-badge.peerlist.io/api/harshtrivedi?style=social)](https://peerlist.io/harshtrivedi)
