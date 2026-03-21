@@ -42,7 +42,7 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/harsh98trivedi" target="_blank" title="X (Twitter)">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" width="48" height="48" style="filter: invert(1); border-radius: 0.75rem;" alt="X" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" width="48" height="48" style="border-radius: 0.75rem;" alt="X" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/harsh98trivedi/" target="_blank" title="Instagram">
@@ -143,17 +143,17 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
 
 <h4>🖥️ OS, Dev Tools & Productivity</h4>
 
-<img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Ubuntu.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/VSCode.svg"/>|<img alt="Arduino" width="30px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/>|<img alt="WordPress" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/WP.svg"/>|<img alt="IFTTT" width="30px" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"/>|<img alt="Zapier" width="30px" src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg"/>
+<img alt="Ubuntu" width="30px" src="https://skillicons.dev/icons?i=ubuntu"/>|<img alt="Git" width="30px" src="https://skillicons.dev/icons?i=git"/>|<img alt="VSCode" width="30px" src="https://skillicons.dev/icons?i=vscode"/>|<img alt="Arduino" width="30px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/>|<img alt="WordPress" width="30px" src="https://skillicons.dev/icons?i=wordpress"/>|<img alt="IFTTT" width="30px" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"/>|<img alt="Zapier" width="30px" src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg"/>
 |--|--|--|--|--|--|--|
 
 <h4>🎨 Design & Creative Tools</h4>
 
-<img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/PS.svg"/>|<img alt="Adobe Lightroom" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/LR.svg"/>|<img alt="Adobe Illustrator" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/AI.svg"/>|<img alt="Adobe XD" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/XD.svg"/>|<img alt="Figma" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Figma.svg"/>|<img alt="Gimp" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Gimp.svg"/>|<img alt="InVision" width="30px" src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"/>|<img alt="Framer" width="30px" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg"/>
+<img alt="Adobe Photoshop" width="30px" src="https://skillicons.dev/icons?i=ps"/>|<img alt="Adobe Lightroom" width="30px" src="https://skillicons.dev/icons?i=lr"/>|<img alt="Adobe Illustrator" width="30px" src="https://skillicons.dev/icons?i=ai"/>|<img alt="Adobe XD" width="30px" src="https://skillicons.dev/icons?i=xd"/>|<img alt="Figma" width="30px" src="https://skillicons.dev/icons?i=figma"/>|<img alt="Gimp" width="30px" src="https://skillicons.dev/icons?i=gimp"/>|<img alt="InVision" width="30px" src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"/>|<img alt="Framer" width="30px" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg"/>
 |--|--|--|--|--|--|--|--|
 
 <h4>🎬 Video & Audio Production</h4>
 
-<img alt="Adobe Premiere Pro" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/PremierePro.svg"/>|<img alt="Adobe After Effects" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/AfterEffects.svg"/>|<img alt="Adobe Audition" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Audition.svg"/>|<img alt="Blender" width="30px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg"/>
+<img alt="Adobe Premiere Pro" width="30px" src="https://skillicons.dev/icons?i=pr"/>|<img alt="Adobe After Effects" width="30px" src="https://skillicons.dev/icons?i=ae"/>|<img alt="Adobe Audition" width="30px" src="https://skillicons.dev/icons?i=au"/>|<img alt="Blender" width="30px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg"/>
 |--|--|--|--|
 
 ---
@@ -507,7 +507,7 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
 <table width="100%">
   <tr>
     <td width="60px" align="center" valign="top">
-      <font size="6">🤖</font>
+      <img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="Generative AI" />
     </td>
     <td valign="top">
       <strong>Generative AI Mastermind</strong><br/>
@@ -517,7 +517,7 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="60px" align="center" valign="top">
-      <font size="6">🛡️</font>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Everbridge_Logo_%28Full_Color%29.svg" width="40" height="40" alt="Everbridge" />
     </td>
     <td valign="top">
       <strong>Incident Operator Certification</strong><br/>
@@ -527,7 +527,7 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="60px" align="center" valign="top">
-      <font size="6">🛡️</font>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Everbridge_Logo_%28Full_Color%29.svg" width="40" height="40" alt="Everbridge" />
     </td>
     <td valign="top">
       <strong>Incident Administrator Certification</strong><br/>
@@ -537,7 +537,7 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="60px" align="center" valign="top">
-      <font size="6">📡</font>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Everbridge_Logo_%28Full_Color%29.svg" width="40" height="40" alt="Everbridge" />
     </td>
     <td valign="top">
       <strong>Mass Notification Message Sender Certification</strong><br/>
