@@ -507,7 +507,7 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
 <table width="100%">
   <tr>
     <td width="60px" align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="Generative AI" />
+      <img src="https://www.svgrepo.com/show/520514/certificate.svg" width="40" height="40" alt="Generative AI" />
     </td>
     <td valign="top">
       <strong>Generative AI Mastermind</strong><br/>
@@ -517,7 +517,7 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="60px" align="center" valign="top">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Everbridge_Logo_%28Full_Color%29.svg" width="40" height="40" alt="Everbridge" />
+      <img src="https://www.svgrepo.com/show/520514/certificate.svg" width="40" height="40" alt="Everbridge" />
     </td>
     <td valign="top">
       <strong>Incident Operator Certification</strong><br/>
@@ -527,7 +527,7 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="60px" align="center" valign="top">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Everbridge_Logo_%28Full_Color%29.svg" width="40" height="40" alt="Everbridge" />
+      <img src="https://www.svgrepo.com/show/520514/certificate.svg" width="40" height="40" alt="Everbridge" />
     </td>
     <td valign="top">
       <strong>Incident Administrator Certification</strong><br/>
@@ -537,7 +537,7 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="60px" align="center" valign="top">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Everbridge_Logo_%28Full_Color%29.svg" width="40" height="40" alt="Everbridge" />
+      <img src="https://www.svgrepo.com/show/520514/certificate.svg" width="40" height="40" alt="Everbridge" />
     </td>
     <td valign="top">
       <strong>Mass Notification Message Sender Certification</strong><br/>
