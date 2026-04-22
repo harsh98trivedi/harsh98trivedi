@@ -25,7 +25,6 @@ I've spent the last decade at the intersection of **technical support and web de
 
 I'm based in **Kanpur, India**, and I've had the opportunity to work with some incredible SaaS companies while also shipping my own projects and contributing to communities I care about.
 
-- 🔭 Currently working at **Everbridge**, a global leader in Critical Event Management.
 - 🌱 An active contributor to the **WordPress.org** ecosystem — forums, themes, plugins, and translations.
 - 🛠️ I've built **30+ open-source projects** ranging from browser extensions to full web apps.
 - 🎨 I love design — Photoshop, Illustrator, Figma, After Effects. Anything visual.
