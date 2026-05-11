@@ -35,15 +35,7 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harsh98trivedi" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/harsh98trivedi" target="_blank" title="X (Twitter)"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" width="48" height="48" style="border-radius: 0.75rem;" alt="X" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/harsh98trivedi/" target="_blank" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" /></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/harsh98trivedi/" target="_blank" title="Facebook"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="48" height="48" alt="Facebook" /></a>&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/3527" target="_blank" title="Discord"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" /></a>&nbsp;&nbsp;
-  <a href="https://www.behance.net/harsh98trivedi" target="_blank" title="Behance"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/behance.svg" width="48" height="48" style="border-radius: 0.75rem;" alt="Behance" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/harsh98trivedi" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/harsh98trivedi" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://x.com/harsh98trivedi" target="_blank" title="X (Twitter)"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" width="48" height="48" style="border-radius: 0.75rem;" alt="X" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/harsh98trivedi/" target="_blank" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" /></a>&nbsp;&nbsp;<a href="https://www.facebook.com/harsh98trivedi/" target="_blank" title="Facebook"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="48" height="48" alt="Facebook" /></a>&nbsp;&nbsp;<a href="https://discordapp.com/users/3527" target="_blank" title="Discord"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" /></a>&nbsp;&nbsp;<a href="https://www.behance.net/harsh98trivedi" target="_blank" title="Behance"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/behance.svg" width="48" height="48" style="border-radius: 0.75rem;" alt="Behance" /></a>&nbsp;&nbsp;<a href="https://github.com/harsh98trivedi" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a></p>
 
 ---
 
@@ -518,8 +510,7 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh98trivedi&show_icons=true&theme=nord&hide_border=true" width="48%" alt="Harsh Trivedi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh98trivedi&layout=compact&theme=nord&hide_border=true" width="48%" alt="Harsh Trivedi's Top Languages" />
+ 
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh98trivedi&theme=nord&hide_border=true" width="100%" alt="Harsh Trivedi's GitHub Streak" />
 </div>
