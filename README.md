@@ -132,44 +132,44 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td width="50%" align="center" valign="top">
+      <a href="https://github.com/harsh98trivedi/TripFuelCalci">
+        <img src="https://raw.githubusercontent.com/harsh98trivedi/TripFuelCalci/master/src/assets/meta.jpg" style="width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:10px;" alt="TripFuelCalci" />
+        <br /><strong>TripFuelCalci</strong>
+      </a><br/>State-of-the-art Progressive Web App to compute global trip fuel costs.
+    </td>
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/harsh98trivedi/6174-Constant">
         <img src="https://repository-images.githubusercontent.com/1179405145/d9e45703-633d-4731-b128-2af1f017dfb9" style="width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:10px;" alt="6174 Constant" />
         <br /><strong>6174 Constant</strong>
       </a><br/>An interactive tribute to number theory and D.R. Kaprekar.
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/harsh98trivedi/Luxury-Car-Solution">
         <img src="https://github.com/harsh98trivedi/Luxury-Car-Solution/raw/master/assets/meta.png" style="width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:10px;" alt="Luxury Car Solution" />
         <br /><strong>Luxury Car Solution</strong>
       </a><br/>Premium transport business website for NY/Long Island.
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/harsh98trivedi/EchoFolio">
         <img src="https://raw.githubusercontent.com/harsh98trivedi/EchoFolio/refs/heads/master/assets/img/meta.jpg" style="width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:10px;" alt="EchoFolio" />
         <br /><strong>EchoFolio</strong>
       </a><br/>Portfolio theme for developers and designers.
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/harsh98trivedi/ValentineFun">
         <img src="https://github.com/harsh98trivedi/ValentineFun/raw/master/meta.jpg" style="width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:10px;" alt="Valentine Proposal" />
         <br /><strong>Valentine Proposal</strong>
       </a><br/>A playful and interactive web-based Valentine proposal.
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/harsh98trivedi/Romeo-Redirect-Manager">
         <img src="https://github.com/harsh98trivedi/Romeo-Redirect-Manager/raw/master/assets/images/meta.jpg" style="width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:10px;" alt="Romeo Redirect Manager" />
         <br /><strong>Romeo Redirect Manager</strong>
       </a><br/>Modern, lightweight WordPress redirect manager.
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/harsh98trivedi/Smart-Content-Blocker">
-        <img src="https://github.com/harsh98trivedi/Smart-Content-Blocker/raw/master/images/meta.jpg" style="width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:10px;" alt="Smart Content Blocker" />
-        <br /><strong>Smart Content Blocker</strong>
-      </a><br/>Chrome extension that blocks content using smart heuristics.
     </td>
   </tr>
 </table>
@@ -386,6 +386,16 @@ I'm based in **Kanpur, India**, and I've had the opportunity to work with some i
         <img src="https://res.cloudinary.com/dtxanlb46/image/upload/v1768681650/techetarian_mtkvqy.png" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:10px;" alt="Techetarian Blog" />
         <br /><strong>Techetarian</strong>
       </a><br/>Technology Simplified — tips, tricks, tweaks & more.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/harsh98trivedi/Smart-Content-Blocker">
+        <img src="https://github.com/harsh98trivedi/Smart-Content-Blocker/raw/master/images/meta.jpg" style="width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:10px;" alt="Smart Content Blocker" />
+        <br /><strong>Smart Content Blocker</strong>
+      </a><br/>Chrome extension that blocks content using smart heuristics.
+    </td>
+    <td width="50%" align="center" valign="top">
     </td>
   </tr>
 </table>
